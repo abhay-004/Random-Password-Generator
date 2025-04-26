@@ -15,7 +15,7 @@ Responsive and clean UI design
 
 ## 📸 Preview
 
-![Password Generator Screenshot](./screenshot/your-image-name.png)
+![Password Generator Screenshot](./screenshot/password-generator.png)
 
 
 🚀 How to Use
