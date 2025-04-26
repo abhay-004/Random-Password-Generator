@@ -10,7 +10,7 @@ Responsive and clean UI design
 
 ## 🚀 Live Demo
 
-[Click here to try the Password Generator!](https://your-live-link.com)
+[Click here to try the Password Generator!](https://random-password-generator-004.netlify.app/)
 
 
 ## 📸 Preview
